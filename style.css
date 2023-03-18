@@ -31,13 +31,16 @@
     width: 700px;
 }
 
-.lasagna-description,
 .ingredients,
 .optional,
 .steps {
     color: red;
 }
 
+#lasagna-description {
+    font-size: 30px;
+    color: red;
+}
 
 
 
