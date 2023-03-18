@@ -1,0 +1,43 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.headline {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.list {
+    text-align: left;
+    font-size: 20px;
+}
+
+/* Other pages */
+
+.lasagna-headline,
+.chickenpastaromano-headline,
+.potgroundturkeypasta-headline,
+.skilletmexicanquinoa-headline {
+    color: red;
+}
+
+.lasagna-image,
+.chickenpastaromano-image,
+.potgroundturkeypasta-image,
+.skilletmexicanquinoa-image {
+    width: 700px;
+}
+
+.lasagna-description,
+.ingredients,
+.optional,
+.steps {
+    color: red;
+}
+
+
+
+
